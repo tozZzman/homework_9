@@ -1,0 +1,7 @@
+Пользователей системы: root, systemd+, avahi, message+, syslog, lp, whoopsie, kernoops, tony, rtkit, colord;
+Процессов запущено: 204;
+Пользовательских процессов: root: 114, systemd+: 2, avahi: 2, message+: 1, syslog: 1, lp: 1, whoopsie: 1, kernoops: 2, tony: 78, rtkit: 1, colord: 1;
+Всего памяти используется: 103.30000000000001;
+Всего CPU используется: 49.8;
+Больше всего памяти использует:  /snap/pycharm-commu: 43.4;
+Больше всего CPU использует:  /snap/pycharm-commu: 34.3
